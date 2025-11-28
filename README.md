@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Hi%2C%20I'm%20Edoardo%20👋&fontSize=40&fontAlignY=35&animation=fadeIn" alt="header" />
 </p>
 
-# Hi, I'm Edoardo 👋
-
 Frontend Developer passionate about building clean, scalable, and intuitive web interfaces.  
 I work mainly with **React**, **TypeScript**, and modern web tooling — always aiming for great DX and high-quality UI.
 
