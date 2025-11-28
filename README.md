@@ -20,4 +20,4 @@ I enjoy turning complex problems into simple, elegant solutions.
 Clean code, maintainability, and solid user experience are always at the center of my work.
 
 ### 📫 Get in touch
-- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" />](https://www.linkedin.com/in/edoardo-de-rosa) LinkedIn
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" />](https://www.linkedin.com/in/edoardo-de-rosa)
