@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Edoardo 👋
 
-<!--
-**derosaedoardo/derosaedoardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer passionate about building clean, scalable, and intuitive web interfaces.  
+I work mainly with **React**, **TypeScript**, and modern web tooling — always aiming for great DX and high-quality UI.
 
-Here are some ideas to get you started:
+### 🔧 Tech I work with
+- **Languages:** JavaScript, TypeScript  
+- **Frontend:** React, Next.js, Remix, React Native, Expo, Redux, Zustand  
+- **Styling:** CSS-in-JS, TailwindCSS, Material UI, Styled Components  
+- **Tooling:** Vite, Webpack, ESLint, Prettier  
+- **Backend (light):** Node.js, Express, Adonis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm up to
+- Crafting performant and accessible interfaces  
+- Exploring design systems and scalable UI architecture  
+- Improving developer experience and workflow automation  
+
+### 📈 My approach
+I enjoy turning complex problems into simple, elegant solutions.  
+Clean code, maintainability, and solid user experience are always at the center of my work.
+
+### 📫 Get in touch
+- [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" />](https://www.linkedin.com/in/edoardo-de-rosa) LinkedIn
