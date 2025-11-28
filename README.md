@@ -36,23 +36,6 @@ I work mainly with **React**, **TypeScript**, and modern web tooling — always 
 
 ---
 
-### 🧩 Nerdy Add-ons
-
-**🧪 Current Status:**  
-```txt
-> Compiling reality into something understandable...
-```
-
-**💡 Mini Widgets**
-
-**Most used languages:**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-**GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
 ### 📈 My approach
 I enjoy turning complex problems into simple, elegant solutions.  
 Clean code, maintainability, and solid user experience are always at the center of my work.
